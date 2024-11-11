@@ -1,8 +1,8 @@
-# BharatWeatherLogger
+# IndiaCast
 
 ### Real-time Weather Logging for Indian Cities
 
-**BharatWeatherLogger** is a command-line tool that allows you to fetch real-time weather data for major Indian cities. The data is logged, including observed and forecast temperatures, weather conditions, humidity, and wind speed, with an option to select temperature units (Celsius or Fahrenheit).
+**IndiaCast** is a command-line tool that allows you to fetch real-time weather data for major Indian cities. The data is logged, including observed and forecast temperatures, weather conditions, humidity, and wind speed, with an option to select temperature units (Celsius or Fahrenheit).
 
 ---
 
@@ -25,7 +25,7 @@
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/AshNicolus/IndiaCast.git
-    cd BharatWeatherLogger
+    cd IndiaCast
     ```
 
 2. **Make the script executable:**

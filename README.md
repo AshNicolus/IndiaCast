@@ -30,7 +30,7 @@
 
 2. **Make the script executable:**
     ```bash
-    chmod u+x weather_logger.sh
+    chmod u+x main_rx.sh
     ```
 
 ---
@@ -39,7 +39,7 @@
 
 1. **Run the script:**
     ```bash
-    ./weather_logger.sh
+    ./main_rx.sh
     ```
 
 2. **Input the city and forecast preferences when prompted:**

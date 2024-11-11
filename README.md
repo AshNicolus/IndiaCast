@@ -24,7 +24,7 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/AshNicolus/BharatWeatherLogger.git
+    git clone https://github.com/AshNicolus/IndiaCast.git
     cd BharatWeatherLogger
     ```
 
